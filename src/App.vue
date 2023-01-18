@@ -1,6 +1,6 @@
 <template>
-  <img alt="Vue logo" src="./assets/logo.png">
-  <HelloWorld msg="Welcome to Your Vue.js App"/>
+  <HelloWorld msg="'To become really good at anything, you have to practice and repeat, practice and repeat. 
+  Until the technique become intuitive'"/>
 </template>
 
 <script>
